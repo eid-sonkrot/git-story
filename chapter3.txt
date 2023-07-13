@@ -3,3 +3,4 @@ With a heavy heart and a bag full of hopes, Git took his first step into the wor
 
 t
 Git was ready for his journey, prepared to face the trials ahead.
+The first challenge Git faced was understanding the concepts of Version Control.
